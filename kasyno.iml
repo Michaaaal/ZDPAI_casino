@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="IntelliJ IDEA IU-232.9559.62" jdkType="IDEA JDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
